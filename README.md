@@ -33,8 +33,6 @@ Apasionado por el desarrollo de aplicaciones eficientes, el trabajo con bases de
 ---
 
 ## 📊 Estadísticas de GitHub
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=FacuLedesmaBertalot&show_icons=true&theme=tokyonight)  
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FacuLedesmaBertalot&layout=compact&theme=tokyonight)
 
 ---
