@@ -24,12 +24,20 @@ Apasionado por el desarrollo de aplicaciones eficientes, el trabajo con bases de
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/FacuLedesmaBertalot">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacuLedesmaBertalot&show_icons=true&include_all_commits=true&bg_color=151515&title_color=a55eea&text_color=ffffff&icon_color=a55eea&border_color=a55eea&ring_color=a55eea" alt="Estadísticas de Facundo" />
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FacuLedesmaBertalot&layout=compact&langs_count=8&bg_color=151515&title_color=a55eea&text_color=ffffff&icon_color=a55eea&border_color=a55eea" alt="Lenguajes más usados por Facundo" />
+    <table>
+      <tr>
+        <td align="center">
+          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacuLedesmaBertalot&show_icons=true&include_all_commits=true&bg_color=151515&title_color=a55eea&text_color=ffffff&icon_color=a55eea&border_color=a55eea&ring_color=a55eea" alt="Estadísticas de Facundo" />
+        </td>
+        <td align="center">
+          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FacuLedesmaBertalot&layout=compact&langs_count=8&bg_color=151515&title_color=a55eea&text_color=ffffff&icon_color=a55eea&border_color=a55eea" alt="Lenguajes más usados por Facundo" />
+        </td>
+      </tr>
+    </table>
   </a>
-</p>
+</div>
 
 ---
 
