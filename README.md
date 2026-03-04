@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Facundo Ledesma!
 
-💻 **Desarrollador Back-End** | 🎓 **Estudiante de la Tecnicatura Universitaria en Desarrollo Web** 
+💻 **Desarrollador FullStack** | 🎓 **Estudiante de la Tecnicatura Universitaria en Desarrollo Web** 
  
 Apasionado por el desarrollo de aplicaciones eficientes, el trabajo con bases de datos y el aprendizaje constante en el mundo IT.  
 
