@@ -8,7 +8,7 @@ Apasionado por el desarrollo de aplicaciones eficientes, el trabajo con bases de
 
 ## 🚀 Sobre mí
 - 🎯 Enfocado en el desarrollo **Back-End con PHP, Node.js y MySQL**
-- 🖥️ Experiencia en **Front-End con HTML, CSS, JavaScript, Tailwind CSS, React, y Bootstrap**
+- 🖥️ Experiencia en **Front-End con HTML, CSS, SCSS, JavaScript, Tailwind CSS, React, y Bootstrap**
 - 🌐 **Nivel de inglés:** Intermedio-Avanzado (B1/B2)
 - 📚 En constante formación: Typescript, Express y MongoDB
 
@@ -17,7 +17,7 @@ Apasionado por el desarrollo de aplicaciones eficientes, el trabajo con bases de
 ## Tecnologías
 
 **Front-End:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 **Back-End:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
