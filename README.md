@@ -8,9 +8,9 @@ Apasionado por el desarrollo de aplicaciones eficientes, el trabajo con bases de
 
 ## 🚀 Sobre mí
 - 🎯 Enfocado en el desarrollo **Back-End con PHP, Node.js y MySQL**
-- 🖥️ Experiencia en **Front-End con HTML, CSS, JavaScript y Bootstrap**
+- 🖥️ Experiencia en **Front-End con HTML, CSS, JavaScript, Tailwind CSS, React, y Bootstrap**
 - 🌐 **Nivel de inglés:** Intermedio-Avanzado (B1/B2)
-- 📚 En constante formación: Typescript, Tailwind CSS, React, Express y MongoDB
+- 📚 En constante formación: Typescript, Express y MongoDB
 
 ---
 
