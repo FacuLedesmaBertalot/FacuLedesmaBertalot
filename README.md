@@ -1,8 +1,8 @@
 # 👋 ¡Hola, soy Facundo Ledesma!
 
-💻 **Desarrollador FullStack** | 🎓 **Estudiante de la Tecnicatura Universitaria en Desarrollo Web** 
+💻 **Desarrollador FullStack** | 🎓 **Estudiante de la Tecnicatura en Desarrollo Web (UNCo)** | 🌐 <a href="https://devledesmabertalot.com" target="_blank">Portfolio Web</a>
  
-Apasionado por el desarrollo de aplicaciones eficientes, el trabajo con bases de datos y el aprendizaje constante en el mundo IT.  
+Apasionado por la ingeniería de software y el desarrollo de aplicaciones eficientes. Disfruto resolver problemas complejos a través de bases de datos bien estructuradas y código limpio. Considero que la adaptabilidad, la comunicación en equipo y el aprendizaje constante son las herramientas más importantes en el mundo IT.
 
 ---
 
@@ -25,6 +25,10 @@ Apasionado por el desarrollo de aplicaciones eficientes, el trabajo con bases de
 **Herramientas:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+## 📚 Learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
 ## 📊 Estadísticas de GitHub
