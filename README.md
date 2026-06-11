@@ -1,47 +1,53 @@
-# 👋 ¡Hola, soy Facundo Ledesma!
+<div align="center">
+  <img src="https://placehold.co/1500x350/000000/FF8C00.png?text=FACUNDO+LEDESMA%5CnFull-Stack+Developer&font=Raleway" alt="Minimalist Banner Facundo Ledesma"/>
+  <br><br>
+  <p><i>Engineering clean code for high-end digital experiences.</i></p>
+</div>
+<br>
 
-💻 **Desarrollador FullStack** | 🎓 **Estudiante de la Tecnicatura en Desarrollo Web (UNCo)** | 🌐 <a href="https://devledesmabertalot.com" target="_blank">Portfolio Web</a>
+💻 **Full-Stack Developer** | 🎓 **Web Development Student (UNCo)** | 🌐 <a href="https://devledesmabertalot.com" target="_blank">Web Portfolio</a>
  
-Apasionado por la ingeniería de software y el desarrollo de aplicaciones eficientes. Disfruto resolver problemas complejos a través de bases de datos bien estructuradas y código limpio. Considero que la adaptabilidad, la comunicación en equipo y el aprendizaje constante son las herramientas más importantes en el mundo IT.
+Dedicated full-stack web developer. While I enjoy crafting modern applications from the database up to the user interface, my core passion lies in tackling complex server-side logic, architecting robust databases, and turning them into clean, maintainable code. I consider strong teamwork, adaptability, and staying up-to-date with modern technologies to be essential for thriving in the IT landscape.
 
 ---
 
-## 🚀 Sobre mí
-- 🎯 Enfocado en el desarrollo **Back-End con PHP, Node.js, Express, MongoDB y MySQL**
-- 🖥️ Experiencia en **Front-End con HTML, CSS, SCSS, JavaScript, Tailwind CSS, React, y Bootstrap**
-- 🌐 **Nivel de inglés:** Intermedio-Avanzado (B1/B2)
-- 📚 En constante formación: Typescript, NestJS
+## 🚀 About Me
+- 🎯 Focused on **Back-End development with PHP, Node.js, Express, MongoDB, and MySQL**
+- 🖥️ Experience in **Front-End with HTML, CSS, SCSS, JavaScript, Tailwind CSS, React, and Bootstrap**
+- 🌐 **English Level:** Intermediate-Advanced (B1/B2)
+- 📚 Constantly learning: TypeScript, NestJS
 
 ---
 
-## Tecnologías
+## 💻 Technologies & Tools
 
-**Front-End:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<div align="center">
+  
+**Front-End** <br>
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,scss)](https://skillicons.dev)
 
-**Back-End:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Back-End** <br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb)](https://skillicons.dev)
 
-**Herramientas:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Tools** <br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
+**📚 Currently Learning** <br>
+[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,postgres,docker,nextjs)](https://skillicons.dev)
 
-## 📚 Learning
+</div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
----
-
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/FacuLedesmaBertalot">
     <table>
       <tr>
         <td align="center">
-          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacuLedesmaBertalot&show_icons=true&include_all_commits=true&bg_color=151515&title_color=a55eea&text_color=ffffff&icon_color=a55eea&border_color=a55eea&ring_color=a55eea" alt="Estadísticas de Facundo" />
+          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacuLedesmaBertalot&show_icons=true&include_all_commits=true&bg_color=151515&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&border_color=FF8C00&ring_color=FF8C00" alt="Facundo's Stats" />
         </td>
         <td align="center">
-          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FacuLedesmaBertalot&layout=compact&langs_count=8&bg_color=151515&title_color=a55eea&text_color=ffffff&icon_color=a55eea&border_color=a55eea" alt="Lenguajes más usados por Facundo" />
+          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FacuLedesmaBertalot&layout=compact&langs_count=8&bg_color=151515&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&border_color=FF8C00" alt="Top Languages used by Facundo" />
         </td>
       </tr>
     </table>
@@ -50,4 +56,4 @@ Apasionado por la ingeniería de software y el desarrollo de aplicaciones eficie
 
 ---
 
-✨ *Gracias por visitar mi perfil, siempre abierto a nuevos desafíos y oportunidades.*
+✨ *Thanks for visiting my profile, always open to new challenges and opportunities.*
