@@ -1,7 +1,8 @@
+
 <div align="center">
-  <img src="https://placehold.co/1500x350/000000/FF8C00.png?text=FACUNDO+LEDESMA%5CnFull-Stack+Developer&font=Raleway" alt="Minimalist Banner Facundo Ledesma"/>
-  <br><br>
-  <p><i>Engineering clean code for high-end digital experiences.</i></p>
+  <img width="100%" height="320" alt="Facundo Ledesma" src="https://github.com/user-attachments/assets/21d6067e-155e-42bd-9707-6b3dc56d48b0" />
+  <br>
+  <h4><i>Engineering clean code for high-end digital experiences.</i></h4>
 </div>
 <br>
 
@@ -44,10 +45,10 @@ Dedicated full-stack web developer. While I enjoy crafting modern applications f
     <table>
       <tr>
         <td align="center">
-          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacuLedesmaBertalot&show_icons=true&include_all_commits=true&bg_color=151515&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&border_color=FF8C00&ring_color=FF8C00" alt="Facundo's Stats" />
+          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacuLedesmaBertalot&show_icons=true&include_all_commits=true&bg_color=151515&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37&ring_color=D4AF37" alt="Facundo's Stats" />
         </td>
         <td align="center">
-          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FacuLedesmaBertalot&layout=compact&langs_count=8&bg_color=151515&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&border_color=FF8C00" alt="Top Languages used by Facundo" />
+          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FacuLedesmaBertalot&layout=compact&langs_count=8&bg_color=151515&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37" alt="Top Languages used by Facundo" />
         </td>
       </tr>
     </table>
