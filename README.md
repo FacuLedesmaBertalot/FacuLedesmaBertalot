@@ -14,7 +14,7 @@ Dedicated full-stack web developer. While I enjoy crafting modern applications f
 ## 🚀 About Me
 - 🎯 Focused on **Back-End development** with PHP, Node.js, Express, and integrating **DevOps** practices.
 - 🖥️ Experience in **Front-End** with HTML, CSS, SCSS, JavaScript, Tailwind CSS, React, and Bootstrap.
-- 🗄️ Solid foundation in relational and NoSQL databases.
+- 🗄️ Solid foundation in SQL and NoSQL databases.
 - 🌐 **English Level:** Intermediate-Advanced (B1/B2)
 - 📚 Constantly learning: NextJS, NestJS, Docker, and CI/CD pipelines.
 
