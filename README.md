@@ -1,4 +1,3 @@
-
 <div align="center">
   <img width="100%" height="320" alt="Facundo Ledesma" src="https://github.com/user-attachments/assets/21d6067e-155e-42bd-9707-6b3dc56d48b0" />
   <br>
@@ -8,34 +7,66 @@
 
 💻 **Full-Stack Developer** | 🎓 **Web Development Student (UNCo)** | 🌐 <a href="https://devledesmabertalot.com" target="_blank">Web Portfolio</a>
  
-Dedicated full-stack web developer. While I enjoy crafting modern applications from the database up to the user interface, my core passion lies in tackling complex server-side logic, architecting robust databases, and turning them into clean, maintainable code. I consider strong teamwork, adaptability, and staying up-to-date with modern technologies to be essential for thriving in the IT landscape.
+Dedicated full-stack web developer. While I enjoy crafting modern applications from the database up to the user interface, my core passion lies in tackling complex server-side logic, architecting robust databases, and turning them into clean, maintainable code. Currently, I am expanding my horizons into DevOps to streamline deployments, manage infrastructure, and build scalable systems. I consider strong teamwork, adaptability, and staying up-to-date with modern technologies to be essential for thriving in the IT landscape.
 
 ---
 
 ## 🚀 About Me
-- 🎯 Focused on **Back-End development with PHP, Node.js, Express, MongoDB, and MySQL**
-- 🖥️ Experience in **Front-End with HTML, CSS, SCSS, JavaScript, Tailwind CSS, React, and Bootstrap**
+- 🎯 Focused on **Back-End development** with PHP, Node.js, Express, and integrating **DevOps** practices.
+- 🖥️ Experience in **Front-End** with HTML, CSS, SCSS, JavaScript, Tailwind CSS, React, and Bootstrap.
+- 🗄️ Solid foundation in relational and NoSQL databases.
 - 🌐 **English Level:** Intermediate-Advanced (B1/B2)
-- 📚 Constantly learning: TypeScript, NestJS
+- 📚 Constantly learning: NextJS, NestJS, Docker, and CI/CD pipelines.
 
 ---
 
 ## 💻 Technologies & Tools
 
 <div align="center">
-  
-**Front-End** <br>
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,scss)](https://skillicons.dev)
-
-**Back-End** <br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb)](https://skillicons.dev)
-
-**Tools** <br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
-
-**📚 Currently Learning** <br>
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,postgres,docker,nextjs)](https://skillicons.dev)
-
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>Languages</b><br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,ts,php" alt="Languages" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <b>Front-End</b><br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=scss,react,tailwind,bootstrap" alt="Front-End" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Back-End</b><br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Back-End" />
+        </a>
+      </td>
+      <td align="center">
+        <b>Databases</b><br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Tools</b><br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,postman" alt="Tools" />
+        </a>
+      </td>
+      <td align="center">
+        <b>📚 Currently Learning</b><br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nestjs,nextjs,docker,kubernetes,aws" alt="Learning" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 GitHub Stats
