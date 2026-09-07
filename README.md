@@ -76,7 +76,7 @@ Dedicated full-stack web developer. While I enjoy crafting modern applications f
     <table>
       <tr>
         <td align="center">
-          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacuLedesmaBertalot&show_icons=true&include_all_commits=true&bg_color=151515&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37&ring_color=D4AF37" alt="Facundo's Stats" />
+          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacuLedesmaBertalot&count_private=true&show_icons=true&include_all_commits=true&bg_color=151515&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37&ring_color=D4AF37" alt="Facundo's Stats" />
         </td>
         <td align="center">
           <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FacuLedesmaBertalot&layout=compact&langs_count=8&bg_color=151515&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37" alt="Top Languages used by Facundo" />
