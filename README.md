@@ -42,7 +42,7 @@ Dedicated full-stack web developer. While I enjoy crafting modern applications f
       <td align="center">
         <b>Back-End</b><br><br>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Back-End" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Back-End" />
         </a>
       </td>
       <td align="center">
@@ -56,13 +56,13 @@ Dedicated full-stack web developer. While I enjoy crafting modern applications f
       <td align="center">
         <b>Tools</b><br><br>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,postman" alt="Tools" />
+          <img src="https://skillicons.dev/icons?i=git,github,postman,docker" alt="Tools" />
         </a>
       </td>
       <td align="center">
         <b>📚 Currently Learning</b><br><br>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nestjs,nextjs,docker,kubernetes,aws" alt="Learning" />
+          <img src="https://skillicons.dev/icons?i=nextjs,kubernetes,aws" alt="Learning" />
         </a>
       </td>
     </tr>
