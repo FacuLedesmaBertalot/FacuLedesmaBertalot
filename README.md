@@ -9,16 +9,13 @@
  
 Dedicated full-stack web developer. While I enjoy crafting modern applications from the database up to the user interface, my core passion lies in tackling complex server-side logic, architecting robust databases, and turning them into clean, maintainable code. Currently, I am expanding my horizons into DevOps to streamline deployments, manage infrastructure, and build scalable systems. I consider strong teamwork, adaptability, and staying up-to-date with modern technologies to be essential for thriving in the IT landscape.
 
----
-
 ## 🚀 About Me
-- 🎯 Focused on **Back-End development** with PHP, Node.js, Express, and integrating **DevOps** practices.
+- 🎯 Focused on **Back-End development** with PHP, Node.js, Express, NestJS and integrating **DevOps** practices.
 - 🖥️ Experience in **Front-End** with HTML, CSS, SCSS, JavaScript, Tailwind CSS, React, and Bootstrap.
 - 🗄️ Solid foundation in SQL and NoSQL databases.
 - 🌐 **English Level:** Intermediate-Advanced (B1/B2)
-- 📚 Constantly learning: NextJS, NestJS, Docker, and CI/CD pipelines.
+- 📚 Constantly learning: NextJS, Docker, and CI/CD pipelines.
 
----
 
 ## 💻 Technologies & Tools
 
@@ -76,10 +73,10 @@ Dedicated full-stack web developer. While I enjoy crafting modern applications f
     <table>
       <tr>
         <td align="center">
-          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacuLedesmaBertalot&count_private=true&show_icons=true&include_all_commits=true&bg_color=151515&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37&ring_color=D4AF37" alt="Facundo's Stats" />
+          <img src="https://raw.githubusercontent.com/FacuLedesmaBertalot/github-stats/generated/overview.svg" alt="Facundo's Stats" />
         </td>
         <td align="center">
-          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FacuLedesmaBertalot&layout=compact&langs_count=8&bg_color=151515&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37" alt="Top Languages used by Facundo" />
+          <img src="https://raw.githubusercontent.com/FacuLedesmaBertalot/github-stats/generated/languages.svg" alt="Top Languages used by Facundo" />
         </td>
       </tr>
     </table>
